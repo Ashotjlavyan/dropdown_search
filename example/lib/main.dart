@@ -1,5 +1,5 @@
 import 'package:dio/dio.dart';
-import 'package:dropdown_search/dropdown_search.dart';
+import 'package:dropdown_search_sniffers/dropdown_search.dart';
 import 'package:example/bottom_sheets.dart';
 import 'package:example/dialogs.dart';
 import 'package:example/menus.dart';

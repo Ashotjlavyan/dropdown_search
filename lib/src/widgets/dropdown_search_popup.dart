@@ -1,6 +1,6 @@
 import 'dart:async';
 
-import 'package:dropdown_search/src/widgets/custom_inkwell.dart';
+import 'package:dropdown_search_sniffers/src/widgets/custom_inkwell.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 

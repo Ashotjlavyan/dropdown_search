@@ -1,4 +1,4 @@
-import 'package:dropdown_search/src/properties/scroll_props.dart';
+import 'package:dropdown_search_sniffers/src/properties/scroll_props.dart';
 import 'package:flutter/cupertino.dart';
 
 class CustomSingleScrollView extends StatelessWidget {

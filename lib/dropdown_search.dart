@@ -1,12 +1,12 @@
 library dropdown_search;
 
 import 'dart:async';
-import 'package:dropdown_search/src/properties/dropdown_props.dart';
-import 'package:dropdown_search/src/properties/infinite_scroll_props.dart';
-import 'package:dropdown_search/src/properties/scroll_props.dart';
-import 'package:dropdown_search/src/utils.dart';
-import 'package:dropdown_search/src/widgets/custom_icon_button.dart';
-import 'package:dropdown_search/src/widgets/custom_inkwell.dart';
+import 'package:dropdown_search_sniffers/src/properties/dropdown_props.dart';
+import 'package:dropdown_search_sniffers/src/properties/infinite_scroll_props.dart';
+import 'package:dropdown_search_sniffers/src/properties/scroll_props.dart';
+import 'package:dropdown_search_sniffers/src/utils.dart';
+import 'package:dropdown_search_sniffers/src/widgets/custom_icon_button.dart';
+import 'package:dropdown_search_sniffers/src/widgets/custom_inkwell.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 

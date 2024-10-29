@@ -1,5 +1,5 @@
-import 'package:dropdown_search/dropdown_search.dart';
-import 'package:dropdown_search/src/widgets/custom_inkwell.dart';
+import 'package:dropdown_search_sniffers/dropdown_search.dart';
+import 'package:dropdown_search_sniffers/src/widgets/custom_inkwell.dart';
 import 'package:flutter/material.dart';
 
 typedef WidgetCheckBox = Widget Function(BuildContext context, bool isChecked);
